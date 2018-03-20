@@ -1,0 +1,15 @@
+.content {
+  padding-top: 14px;
+  padding-bottom: 14px;
+
+  &__container {
+    width: 100%;
+    box-sizing: border-box;
+    max-width: 910px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
